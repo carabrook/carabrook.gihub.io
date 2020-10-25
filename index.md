@@ -1,1 +1,1 @@
-please try visiting [brooklab.org](brooklab.org)
+please try visiting [brooklab.org](https://brooklab.org)
